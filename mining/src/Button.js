@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const Button = styled('button')({
 	padding: '0 16px',
-	height: 36,
+	height: 50,
 	display: 'flex',
 	justifyContent: 'center',
 	alignItems: 'center',
